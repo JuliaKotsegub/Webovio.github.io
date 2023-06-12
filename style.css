@@ -64,7 +64,7 @@ body {
 }
 
 .hero {
-    background-image: url(/Slider_header.png);
+    background-image: url(Slider_header.png);
     background-position: center;
     block-size: cover;
     padding-top: 134px;
@@ -243,7 +243,7 @@ body {
 .footer {
     margin: -430px;
     padding: 0;
-    background-image: url(/footer.png);
+    background-image: url(footer.png);
 }
 
 .footer-top {
@@ -341,19 +341,19 @@ body {
 }
 
 .social-link-fb {
-    background-image: url(/facebook-boxed-svgrepo-com.svg);
+    background-image: url(facebook-boxed-svgrepo-com.svg);
 }
 
 .social-link-tw {
-    background-image: url(/twitter-boxed-svgrepo-com.svg);
+    background-image: url(twitter-boxed-svgrepo-com.svg);
 }
 
 .social-link-g {
-    background-image: url(/google-plus-svgrepo-com.svg);
+    background-image: url(google-plus-svgrepo-com.svg);
 }
 
 .social-link-in {
-    background-image: url(/icons8-linkedin-2.svg);
+    background-image: url(icons8-linkedin-2.svg);
 }
 
 .social-active,
